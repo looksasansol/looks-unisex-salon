@@ -1,0 +1,30 @@
+# Looks Unisex Salon
+
+> Unisex salon in Asansol, West Bengal, near Asansol Engineering College.
+
+## Verified business facts used on this website
+- Name: Looks Unisex Salon
+- Phone / WhatsApp: +91 70312 34515
+- Address: Garui More, near Asansol Engineering College, Asansol, West Bengal 713341
+- Instagram: https://www.instagram.com/looksasansol/
+- Google location: https://share.google/JzWy5XKhkN5fA6lZz
+
+## Services represented
+- Hair Straightening: /services/hair-straightening.html
+- Hair Botox: /services/hair-botox.html
+- Nanoplastia: /services/nanoplastia.html
+- Facial: /services/facial.html
+- D-Tan Treatment: /services/dtan.html
+- Hair Colour: /services/hair-color.html
+- Hair Highlights: /services/hair-highlights.html
+- Global Hair Colour: /services/global-hair-color.html
+- Manicure: /services/manicure.html
+- Pedicure: /services/pedicure.html
+- Waxing: /services/waxing.html
+- Haircut: /services/haircut.html
+- Advanced Haircut: /services/advanced-haircut.html
+- Butterfly Haircut: /services/butterfly-haircut.html
+- Step Cut: /services/step-cut.html
+
+## Editorial note
+The website contains 30 indexable cornerstone guides and 285 noindex editorial drafts. AI-generated images are labelled as samples and should be replaced with real salon work. Prices, hours and treatment suitability must be confirmed directly with the salon.

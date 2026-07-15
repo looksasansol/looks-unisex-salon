@@ -1,0 +1,15 @@
+{
+  "name": "Looks Unisex Salon Asansol",
+  "short_name": "Looks Salon",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffaf5",
+  "theme_color": "#4f162f",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

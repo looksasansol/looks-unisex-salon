@@ -1,0 +1,16 @@
+{
+  "name": "looks-unisex-salon-github-site",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "convert-images": "node tools/convert-images.mjs",
+    "check": "node tools/check-site.mjs"
+  },
+  "dependencies": {
+    "sharp": "^0.34.3"
+  }
+}

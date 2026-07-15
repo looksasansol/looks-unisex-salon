@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /blog/drafts/
+Sitemap: https://YOUR-GITHUB-USERNAME.github.io/looks-unisex-salon/sitemap.xml

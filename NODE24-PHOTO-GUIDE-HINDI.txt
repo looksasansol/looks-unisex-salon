@@ -1,0 +1,14 @@
+FINAL WEBSITE READY
+
+1. Is ZIP ko extract karein.
+2. GitHub repository me ZIP ke ANDAR ke sabhi files upload karein.
+3. Settings > Pages > Source me GitHub Actions select karein.
+4. .github/workflows/deploy-pages.yml Node.js 24-compatible GitHub Actions use karta hai.
+
+Future photos convert karne ke liye:
+- Node.js 24 install karein
+- npm install
+- photos ko photos-to-convert folder me rakhein
+- npm run convert-images
+
+Current 81 photos already WebP me converted aur website sliders me connected hain.

@@ -1,0 +1,24 @@
+GITHUB PAGES NODE.JS 24 WARNING FIX
+===================================
+
+Is package mein .github/workflows/deploy-pages.yml add kiya gaya hai.
+Yeh workflow Node.js 24-compatible official GitHub actions use karta hai:
+
+- actions/checkout@v5
+- actions/configure-pages@v6
+- actions/upload-pages-artifact@v5
+- actions/deploy-pages@v5
+
+GITHUB MEIN SETTINGS:
+1. Repository open karein.
+2. Settings > Pages par jaayein.
+3. Build and deployment > Source mein "GitHub Actions" select karein.
+4. Is corrected package ki sab files GitHub Desktop se repository mein copy karein.
+5. Commit to main karein aur Push origin dabayein.
+6. Actions tab mein "Deploy Looks Unisex Salon to GitHub Pages" workflow open karein.
+7. Green tick aane par website deploy ho jayegi.
+
+IMPORTANT:
+- Purana workflow file ho to .github/workflows folder se delete karein.
+- Repository mein sirf deploy-pages.yml rakhein, agar doosra Pages deployment workflow nahi chahiye.
+- Warning deployment failure nahi thi; old actions ko Node.js 24 par force-run kiya ja raha tha.
